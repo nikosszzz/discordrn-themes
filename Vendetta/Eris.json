@@ -1,0 +1,100 @@
+{
+    "name": "Eris",
+    "description": "Black, classic Discord theme... (Modified by amsyarasyiq)",
+    "authors": [
+        {
+            "name": "Yan.",
+            "id": "735538297815957584"
+        },
+        {
+            "name": "amsyarasyiq",
+            "id": "492949202121261067"
+        },
+        {
+        	"name": "nikoszz",
+        	"id": "327065865201909762"
+        }	
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#1F2125"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#171a1f"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#171a1f"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#14161A"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#14161D"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#14161A"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#14161A"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1F2125"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1F2125"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1F2125"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#14161A"
+        ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT": [
+        	"#14161D"
+        ],
+        "MENTION_BACKGROUND": [
+            "#14161D"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1F2125"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c2c2c2"
+        ],
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#c2c2c2"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#d0d1d4"
+        ],
+        "TEXT_MUTED": [
+            "#c2c2c2"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#14161D"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#C2C2C2",
+        "PRIMARY_300": "#C2C2C2",
+        "PRIMARY_360": "#FFFFFF",
+        "PRIMARY_500": "#1F2125",
+        "PRIMARY_600": "#1F2125",
+        "PRIMARY_630": "#1F2125",
+        "PRIMARY_660": "#1F2125",
+        "PRIMARY_700": "#14161A",
+        "PRIMARY_800": "#14161A",
+        "PRIMARY_900": "#1F2125",
+        "BRAND_900": "#7288DA",
+        "BRAND_500": "#7A7C80",
+        "WHITE_900": "#FFFFFF",
+        "YELLOW_300": "#FFFFFF"
+    },
+    "spec": 2
+}
