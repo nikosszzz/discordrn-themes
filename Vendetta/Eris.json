@@ -29,7 +29,7 @@
             "#14161A"
         ],
         "BACKGROUND_ACCENT": [
-            "#14161D"
+            "#2E3034"
         ],
         "BACKGROUND_FLOATING": [
             "#14161A"
@@ -92,7 +92,7 @@
         "PRIMARY_800": "#14161A",
         "PRIMARY_900": "#1F2125",
         "BRAND_900": "#7288DA",
-        "BRAND_500": "#47494D",
+        "BRAND_500": "#2E3034",
         "WHITE_900": "#FFFFFF",
         "YELLOW_300": "#FFFFFF"
     },
