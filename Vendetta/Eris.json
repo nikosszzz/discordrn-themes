@@ -11,8 +11,8 @@
             "id": "492949202121261067"
         },
         {
-        	"name": "nikoszz",
-        	"id": "327065865201909762"
+            "name": "nikoszz",
+            "id": "327065865201909762"
         }	
     ],
     "semanticColors": {
@@ -74,7 +74,7 @@
             "#d0d1d4"
         ],
         "INTERACTIVE_MUTED": [
-            "#c2c2c2"
+            "#2E3034"
         ],
         "TEXT_MUTED": [
             "#c2c2c2"
