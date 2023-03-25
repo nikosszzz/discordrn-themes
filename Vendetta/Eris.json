@@ -73,6 +73,9 @@
         "INTERACTIVE_NORMAL": [
             "#d0d1d4"
         ],
+        "INTERACTIVE_MUTED": [
+            "#c2c2c2"
+        ],
         "TEXT_MUTED": [
             "#c2c2c2"
         ],
