@@ -1,6 +1,6 @@
 {
     "name": "Eris",
-    "description": "Black, classic Discord theme... (Modified by amsyarasyiq and nikoszz)",
+    "description": "A Black, classic Discord theme. (Modified by amsyarasyiq and nikoszz)",
     "authors": [
         {
             "name": "Yan.",
@@ -16,6 +16,9 @@
         }	
     ],
     "semanticColors": {
+        "KEYBOARD": [
+            "#1F2125"
+        ],
         "BACKGROUND_PRIMARY": [
             "#1F2125"
         ],
@@ -47,16 +50,16 @@
             "#2E3034"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#14161D"
+            "#14161A"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#14161A"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
-            "#14161D"
+            "#14161A"
         ],
         "MENTION_BACKGROUND": [
-            "#14161D"
+            "#14161A"
         ],
         "CHAT_BACKGROUND": [
             "#1F2125"
@@ -83,21 +86,20 @@
             "#c2c2c2"
         ],
         "BACKGROUND_MENTIONED": [
-            "#14161D"
+            "#14161A"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#C2C2C2",
         "PRIMARY_300": "#C2C2C2",
-        "PRIMARY_360": "#FFFFFF",
-        "PRIMARY_500": "#1F2125",
+        "PRIMARY_360": "#14161A",
+        "PRIMARY_500": "#616367",
         "PRIMARY_600": "#1F2125",
-        "PRIMARY_630": "#1F2125",
+        "PRIMARY_630": "#14161A",
         "PRIMARY_660": "#616367",
         "PRIMARY_700": "#14161A",
         "PRIMARY_800": "#14161A",
         "PRIMARY_900": "#1F2125",
-        "BRAND_260": "#616367",
         "BRAND_900": "#7288DA",
         "BRAND_500": "#616367",
         "BRAND_560": "#616367",
