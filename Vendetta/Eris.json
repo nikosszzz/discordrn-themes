@@ -47,7 +47,7 @@
             "#2E3034"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1F2125"
+            "#14161D"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#14161A"
@@ -93,12 +93,14 @@
         "PRIMARY_500": "#1F2125",
         "PRIMARY_600": "#1F2125",
         "PRIMARY_630": "#1F2125",
-        "PRIMARY_660": "#1F2125",
+        "PRIMARY_660": "#616367",
         "PRIMARY_700": "#14161A",
         "PRIMARY_800": "#14161A",
         "PRIMARY_900": "#1F2125",
+        "BRAND_260": "#616367",
         "BRAND_900": "#7288DA",
         "BRAND_500": "#616367",
+        "BRAND_560": "#616367",
         "WHITE_900": "#FFFFFF",
         "YELLOW_300": "#FFFFFF"
     },
